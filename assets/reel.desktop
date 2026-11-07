@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Reel
+GenericName=Media Browser
+Comment=Watch web video in a minimal browser
+Exec=reel %u
+TryExec=reel
+Icon=reel
+Terminal=false
+Categories=Network;WebBrowser;
+Keywords=video;media;YouTube;Twitch;
+StartupNotify=true
+StartupWMClass=reel
